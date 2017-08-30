@@ -1,0 +1,24 @@
+{
+  "name": "agriot",
+  "version": "1.0.0",
+  "description": "agriculture bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakeshuce/agriot.git"
+  },
+  "author": "rakeshuce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakeshuce/agriot/issues"
+  },
+  "homepage": "https://github.com/rakeshuce/agriot#readme",
+  "dependencies": {
+    "botbuilder": "^3.9.1",
+    "restify": "^5.2.0"
+  }
+}
