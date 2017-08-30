@@ -26,8 +26,3 @@ bot.dialog('/', function (session) {
 // Send 'hello world' to the user
 session.send("agriot welomces you, i can help you with all your agricultural needs.");
 });
-
-bot.dialog('/', function (session) {
-    // Send 'hello world' to the user
-    session.send("share me that you looking for and and i will dig the earth for you.");
-});
